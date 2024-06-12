@@ -325,12 +325,14 @@ ol {
 -----------------------*/
 
 .header-section {
-	position: absolute;
+	position: fixed;
+	background-color: #0000006c;
 	left: 0;
 	top: 0;
 	width: 100%;
 	padding: 0 15px;
-	padding-top: 55px;
+	padding-top: 25px;
+	padding-bottom: 20px;
 	z-index: 99;
 }
 
